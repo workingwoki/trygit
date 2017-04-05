@@ -1,4 +1,4 @@
 this is test1.
 this is developing.this is on the master.
 this is on the branch of dev.
-this is solving the conflict.
+this is solving the conflict.this is a in branch.
