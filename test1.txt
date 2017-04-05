@@ -1,1 +1,4 @@
 this is test1.
+this is developing.
+this is on the branch of dev.
+this is solving the conflict.
