@@ -1,7 +1,10 @@
 this is test1.
 <<<<<<< HEAD
 this is developing.
-this is on the master branch.
 =======
 this is developing.
+>>>>>>> dev
+=======
+
+this is on the branch of dev.
 >>>>>>> dev
